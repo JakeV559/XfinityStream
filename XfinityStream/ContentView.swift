@@ -1,13 +1,4 @@
 import SwiftUI
-/*
- var pFront: String
- var pBack: String
- var logo: String
- var name: String
- var time: String
- var who: String
- var description: String
- */
 
 struct ContentView: View {
     var body: some View {
@@ -22,11 +13,11 @@ struct ContentView: View {
                         
                         TextTemplate(text: " Featured", size: 25)
                         
-                        Carousel(input: [one, two, three, four])
+                        Carousel(input: [one, two, three, four, five, six, seven, eight])
                         
                         TextTemplate(text: " Recently Watched", size: 25)
                         
-                        Carousel(input: [one, two, three, four].reversed())
+                        Carousel(input: [one, two, three, four, five, six, seven, eight].reversed())
                         
                         TextTemplate(text: " Just Recorded", size: 25)
                         

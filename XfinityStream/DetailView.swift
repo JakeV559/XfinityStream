@@ -15,8 +15,6 @@ struct DetailView: View {
                     
                     VStack(alignment: .leading) {
                         
-                        ImageTemplate(name: dataItem.logo, width: 100, height: 90).padding(.bottom, -20)
-                        
                         TextTemplate(text: dataItem.name, size: 35).padding(.bottom, 10)
                         TextTemplate(text: dataItem.time, size: 15).padding(.bottom, 10)
                         TextTemplate(text: dataItem.who, size: 18).padding(.bottom, 10)
@@ -39,6 +37,6 @@ struct DetailView: View {
 
 struct DetailView_Previews: PreviewProvider {
     static var previews: some View {
-        DetailView(dataItem: three)
+        DetailView(dataItem: one)
     }
 }
