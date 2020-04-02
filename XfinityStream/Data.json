@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1001,
+        "who": "Rachel Maddow",
+        "time": "New Tomorroow at 9:00p on 830 MSNBC",
+        "name": "The Rachel Maddow Show",
+        "pBack": "1b",
+        "pFront": "1f",
+        "description": "Through her unique approach to storytelling, Rachel Maddow provides in-depth reporting to illuminate the current state of political affairs."
+    },
+    {
+        "id": 1002,
+        "who": "Mariska Hargitay  Ice-T",
+        "time": "New Thurs at 10:00p on 806 WXIAD",
+        "name": "Law & Order: SVU",
+        "pBack": "2b",
+        "pFront": "2f",
+        "description": "This groundbreaking series from executive producer Dick Wolf's 'Law & Order'  franchise chronicles the ripped-from-the-headlines investigations of the.. "
+    },
+    {
+        "id": 1003,
+        "who": "Tom Hanks Meg Ryan",
+        "time": "Available from SundanceTV, SUNDANCE until Thu",
+        "name": "Sleepless in Seattle",
+        "pBack": "3b",
+        "pFront": "3f",
+        "description": "A recently engaged newswoman becomes obsessed with meeting a grieving widower she heard on a late-night radio call-in show."
+    },
+    {
+        "id": 1004,
+        "who": "Christian Hendricks  Lidya Jewett",
+        "time": "New Sun at 10:00p on 806 WXIAD",
+        "name": "Good Girls",
+        "pBack": "4b",
+        "pFront": "4f",
+        "description": "When sisters Beth and Annie and their best friend Ruby become fed up with playing by the rules and not getting the respect they deserve."
+    },
+    {
+        "id": 1005,
+        "who": "Kelly Clarkson  Alex Duda",
+        "time": "New Tomorroow at 4:00a on 872 BRVOD",
+        "name": "The Kelly Clarkson Show",
+        "pBack": "5b",
+        "pFront": "5f",
+        "description": "Singer Kelly Clarkson brings her gift of connection to a fun and funny hour each weekday, offering heartwarming stories, live musical performances.."
+    },
+    {
+        "id": 1006,
+        "who": "Bradley Cooper  Lady Gaga",
+        "time": "Available from HBO until 9/8",
+        "name": "A Star Is Born",
+        "pBack": "6b",
+        "pFront": "6f",
+        "description": "Hard-drinking  country music star Jackson Maine discivers -- and falls in love with -- a struggling but talented singer named Ally."
+    },
+    {
+        "id": 1007,
+        "who": "Dennis Quaid  Jake Gyllenhaal",
+        "time": "Available from HBO until 5/2",
+        "name": "The Day After Tomorrow",
+        "pBack": "7b",
+        "pFront": "7f",
+        "description": "A climatologist tried to locate his son after global warming leads to worldwide natural disasters."
+    },
+    {
+        "id": 1008,
+        "who": "Will Smith  Jared Leto",
+        "time": "Available from TNT until 4/15",
+        "name": "Suicide Squad",
+        "pBack": "8b",
+        "pFront": "8f",
+        "description": "Deadshot,  Harley Quinn, Captain Boomerang, Killer Croc and other armed supervillains unite to battle a mysterious and power."
+    }
+]

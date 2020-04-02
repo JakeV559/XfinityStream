@@ -2,7 +2,7 @@ import SwiftUI
 
 struct DetailView: View {
     
-    var dataItem: item
+    var dataItem: Item
     
     var body: some View {
         ZStack(alignment: .topLeading) {
@@ -37,6 +37,6 @@ struct DetailView: View {
 
 struct DetailView_Previews: PreviewProvider {
     static var previews: some View {
-        DetailView(dataItem: one)
+        DetailView(dataItem: ItemData[0])
     }
 }

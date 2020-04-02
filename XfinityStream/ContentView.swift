@@ -13,15 +13,13 @@ struct ContentView: View {
                         
                         TextTemplate(text: " Featured", size: 25)
                         
-                        Carousel(input: [one, two, three, four, five, six, seven, eight])
+                        Carousel(isReversed: false)
                         
                         TextTemplate(text: " Recently Watched", size: 25)
                         
-                        Carousel(input: [one, two, three, four, five, six, seven, eight].reversed())
+                        Carousel(isReversed: true)
                         
                         TextTemplate(text: " Just Recorded", size: 25)
-                        
-                        //Carousel(input: [one, two, three, four])
                     }
                 }
             }
